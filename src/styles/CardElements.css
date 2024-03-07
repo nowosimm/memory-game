@@ -1,0 +1,14 @@
+.card__Container {
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+.card__Component {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 200px;
+    background-color: antiquewhite;
+    padding: 20px;
+
+}
